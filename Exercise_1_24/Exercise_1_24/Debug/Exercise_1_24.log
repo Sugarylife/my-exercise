@@ -1,0 +1,3 @@
+﻿  game.c
+f:\c\exercise_1_24\exercise_1_24\game.c(131): warning C4715: “IsWin”: 不是所有的控件路径都返回值
+  Exercise_1_24.vcxproj -> F:\C\Exercise_1_24\Debug\Exercise_1_24.exe
