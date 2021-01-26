@@ -1,0 +1,3 @@
+﻿  main.c
+f:\c\exercise_1_26\exercise_1_26\main.c(65): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  Exercise_1_26.vcxproj -> F:\C\Exercise_1_26\Debug\Exercise_1_26.exe
