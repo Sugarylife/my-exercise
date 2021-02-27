@@ -1,0 +1,5 @@
+﻿  fun.c
+  main.c
+f:\c\模仿qsort的功能实现通用冒泡排序\模仿qsort的功能实现通用冒泡排序\main.c(69): warning C4013: “qsort”未定义；假设外部返回 int
+  正在生成代码...
+  模仿qsort的功能实现通用冒泡排序.vcxproj -> F:\C\模仿qsort的功能实现通用冒泡排序\Debug\模仿qsort的功能实现通用冒泡排序.exe

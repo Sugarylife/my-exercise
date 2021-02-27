@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模仿qsort的功能实现通用冒泡排序", "模仿qsort的功能实现通用冒泡排序\模仿qsort的功能实现通用冒泡排序.vcxproj", "{1490EED3-B4F3-4416-BF68-AC025B9C37C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Debug|x64.ActiveCfg = Debug|x64
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Debug|x64.Build.0 = Debug|x64
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Debug|x86.Build.0 = Debug|Win32
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Release|x64.ActiveCfg = Release|x64
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Release|x64.Build.0 = Release|x64
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Release|x86.ActiveCfg = Release|Win32
+		{1490EED3-B4F3-4416-BF68-AC025B9C37C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3DD6CB-4607-4F0F-B573-ED8D5A931E63}
+	EndGlobalSection
+EndGlobal
