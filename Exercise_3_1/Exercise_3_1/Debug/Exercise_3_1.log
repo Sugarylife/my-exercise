@@ -1,0 +1,5 @@
+﻿  main.c
+f:\c\exercise_3_1\exercise_3_1\main.c(210): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+f:\c\exercise_3_1\exercise_3_1\main.c(210): warning C4133: “函数”: 从“int [8]”到“const char *”的类型不兼容
+f:\c\exercise_3_1\exercise_3_1\main.c(194): warning C4716: “my_memmove”: 必须返回一个值
+  Exercise_3_1.vcxproj -> F:\C\Exercise_3_1\Debug\Exercise_3_1.exe
