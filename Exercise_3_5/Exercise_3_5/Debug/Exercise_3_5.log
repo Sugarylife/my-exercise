@@ -1,0 +1,4 @@
+﻿  main.c
+f:\c\exercise_3_5\exercise_3_5\main.c(135): warning C4013: “gets”未定义；假设外部返回 int
+f:\c\exercise_3_5\exercise_3_5\main.c(136): warning C4013: “strlen”未定义；假设外部返回 int
+  Exercise_3_5.vcxproj -> F:\C\Exercise_3_5\Debug\Exercise_3_5.exe
